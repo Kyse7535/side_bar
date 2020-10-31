@@ -1,0 +1,1 @@
+(()=>{"use strict";const s=function(){$("i").click((()=>{$(".side_bar").toggleClass("side"),$("i").toggleClass("fa-times")}))};$(document).ready((function(){s()}))})();
